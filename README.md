@@ -4,7 +4,7 @@
 
 This was actually a bigger issue than I thought it would. As far as I could see, there was [just one
 open project](http://www.koenigs.dk/mame/eng/draw.htm) online which provided a plan to build the
-cabinet. Basically everyone, who's creating it's own cabinet, is using this plan more less. I
+cabinet. Basically everyone, who's creating a cabinet (I've seen), is using this plan more less. I
 thought there should be more variety and created this Open Project. Feel free to use every template
 as you want. A good thing would be if your result differs, provide it here too. Create a Pull request in which you add your sketch file into this repository. (Or send it to me directly so that I can provide it for you) 
 
